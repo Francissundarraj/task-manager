@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
-import logo from "../../Assets/logo4.png"
-import menu from "../../Assets/menu.png"
+import logo from "../../assets/logo4.png"
+import menu from "../../assets/menu.png"
 import { useEffect, useState } from "react"
 import auth from "../../Config"
 function Navbar() {
