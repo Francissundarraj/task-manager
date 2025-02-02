@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import banner from "../Assets/b3.png"
+import banner from "../assets/b3.png"
 import { useNavigate } from "react-router-dom"
 
 import auth from "../Config"
