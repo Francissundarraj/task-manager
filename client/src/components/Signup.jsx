@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import banner from "../Assets/bannner.png"
+import banner from "../assets/bannner.png"
 import { useNavigate } from "react-router-dom"
 import { createUserWithEmailAndPassword } from "firebase/auth"
 import { fetchSignInMethodsForEmail } from "firebase/auth"
