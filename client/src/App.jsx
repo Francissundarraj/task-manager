@@ -1,6 +1,6 @@
 
 import Login from './components/Login';
-import Signup from './components/SignUp';
+import Signup from './components/Signup';
 import Home from './components/Home';
 import Contact from './components/Contact';
 import Navbar from './components/common pages/Navbar';
