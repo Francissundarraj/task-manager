@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import banner from "../Assets/baner.jpg"
+import banner from "../assets/baner.jpg"
 import { useNavigate } from 'react-router-dom';
 import auth from '../Config';
 import { signInWithEmailAndPassword } from 'firebase/auth';
